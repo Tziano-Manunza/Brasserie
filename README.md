@@ -30,3 +30,8 @@ Brun   : #DEB887
 Marron : #9D7153
 Beige  : #E8DCCA
 Orange : #FFA600
+
+Brun : #DEB887
+Marron : #9D7153
+Beige : #E8DCCA
+Orange : #FFA600
