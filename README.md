@@ -26,12 +26,7 @@ Image de fond : https://www.grizette.com/wp-content/uploads/2021/11/%C2%A9master
 Le logo, les bières et les textes sont fournis par les professeurs.
 (le dossiers avec tout les images est accesible dans le github) 
 
-Brun   : #DEB887
-Marron : #9D7153
-Beige  : #E8DCCA
-Orange : #FFA600
-
-Brun : #DEB887
-Marron : #9D7153
-Beige : #E8DCCA
-Orange : #FFA600
+Brun   : #DEB887,
+Marron : #9D7153,
+Beige  : #E8DCCA,
+Orange : #FFA600,
