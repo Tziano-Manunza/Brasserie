@@ -28,6 +28,5 @@ Le logo, les bières et les textes sont fournis par les professeurs.
 <p>
 Brun   : #DEB887
 Marron : #9D7153
-Beige  : <span style="color:#E8DCCA">#E8DCCA</span>
-Orange : <span style="color:#FFA600">#FFA600</span>
-</p>
+Beige  : #E8DCCA
+Orange : #FFA600
